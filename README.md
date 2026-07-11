@@ -2,10 +2,15 @@
 
 A fully on-chain battle royale survival race game built on **GenLayer blockchain** with MetaMask wallet integration.
 
+**🌐 Live Demo:** [https://rumbleroyale-sand.vercel.app](https://rumbleroyale-sand.vercel.app)
+
+**⛓️ Contract:** [0x2c7F41e491B8eBe0c38508D95C1625Bd225e5563](https://explorer-studio.genlayer.com/address/0x2c7F41e491B8eBe0c38508D95C1625Bd225e5563)
+
 ![Rumble Royale](https://img.shields.io/badge/GenLayer-Studionet-purple)
 ![React](https://img.shields.io/badge/React-19-blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-4-cyan)
+[![Live Demo](https://img.shields.io/badge/Demo-Live-green)](https://rumbleroyale-sand.vercel.app)
 
 ## 🎮 How It Works
 
@@ -77,7 +82,7 @@ A fully on-chain battle royale survival race game built on **GenLayer blockchain
 
 ### Option 1: One-click Deploy
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/YOUR_USERNAME/rumble-royale)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/AhaCompany/rumbleroyale)
 
 ### Option 2: Manual Deploy
 
@@ -161,3 +166,23 @@ MIT
 ---
 
 **Built with ❤️ for GenLayer Hackathon**
+
+---
+
+## 🎮 Screenshots
+
+### Race Gameplay
+- 5-lane survival race
+- Real-time trap avoidance
+- Power-up collection
+- Username displayed above each runner
+
+### On-Chain Features
+- One-time username registration
+- Game results recorded on blockchain
+- Global leaderboard from smart contract
+- Player statistics tracking
+
+---
+
+**🌐 Play Now:** [https://rumbleroyale-sand.vercel.app](https://rumbleroyale-sand.vercel.app)
